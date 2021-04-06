@@ -77,7 +77,6 @@ function setup() {
 }
 
 function draw() {
-  pikachu.debug = true;
 
   background(255);
   drawSprites();
